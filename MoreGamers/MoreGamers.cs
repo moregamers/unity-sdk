@@ -20,9 +20,9 @@ public class MoreGamers : Singleton<MoreGamers>
 
     private const float REFRESH_RATE = 20f;
 
-    private const string SDK_VERSION_NUMBER = "1.1.0";
+    private const string SDK_VERSION_NUMBER = "1.1.1";
 
-    private const string BASE_URL = "http://app.moregamers.com/";
+    private const string BASE_URL = "https://app.moregamers.com/";
 
     private const string AMAZON_MODEL_IDENTIFIER = "Amazon";
 
